@@ -1,0 +1,29 @@
+{
+    "name": "Eighthon",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "repository": "https://github.com/rogerpq/Hack-Termks0",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://t.me/Repthon",
+    "env": {
+        "APP_ID": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+        }
+    }
+}
